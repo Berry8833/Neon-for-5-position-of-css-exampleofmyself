@@ -1,0 +1,41 @@
+.neon {
+    background-color: lavender;
+    padding: 330px;
+    margin: 30px;
+    height: 100vh;
+}
+.one {
+    border: 2px solid darkgreen;
+    background-color: darksalmon;
+    position: sticky;
+    margin: 30px;
+    top: 50px;
+    padding: 20px;
+}
+.two {
+    border: 2px solid darkgreen;
+    background-color: aqua;
+    position: absolute;
+    /* margin: 30px; */
+    left: 50px;
+    padding: 20px;
+}
+.three {
+    border: 2px solid darkgreen;
+    background-color: blueviolet;
+    position: fixed;
+    padding: 20px;
+    right: 80px;
+}
+.four {
+    border: 2px solid darkgreen;
+    background-color: greenyellow;
+    position: static;
+    padding: 20px;
+}
+.five {
+    border: 2px solid darkgreen;
+    background-color: thistle;
+    position: relative;
+    padding: 50px;
+}
